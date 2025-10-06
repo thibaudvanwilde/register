@@ -1,9 +1,9 @@
 {
     "owner": {
-        "username": "github-username",
-        "email": "[email protected]"
+        "username": "thibaudvanwilde",
+        "email": "thibaud@vanwilder.be"
     },
     "records": {
-        "CNAME": "github-username.github.io"
+        "CNAME": "thibaudvanwilde.github.io"
     }
 }
